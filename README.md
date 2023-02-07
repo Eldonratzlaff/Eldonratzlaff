@@ -1,5 +1,4 @@
-### Hi there 👋
-<h3 align="center"><b>ELDON VICTOR RATZLAFF KOOP </b></h3>
+<h1 align="center"><b>ELDON VICTOR RATZLAFF KOOP </b></h1>
 
 
 
