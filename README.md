@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3><b>ELDON RATZLAFF To Do List Web app</b></h3>
+<h3 align="center"><b>ELDON RATZLAFF </b></h3>
 
 
 
